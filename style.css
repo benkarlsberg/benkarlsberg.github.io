@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+    background-color: cornsilk;
+    border: 3px solid green;
+    padding: 26px
+    font-size: 54px;
+    font-family: cursive;
+}
+
+p{
+    background-color: orange;
+}
+
+div{
+    color: red;
+}
+
+img{
+    width: 100px
+}
